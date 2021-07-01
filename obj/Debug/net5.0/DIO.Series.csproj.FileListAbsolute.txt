@@ -1,0 +1,16 @@
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/josue/DIO/PROJETOS/CURSOS/Bootcamps/GFT_Start_2_DotNET/Projetos/Criando um APP simples de cadastro de séries em .NET/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
